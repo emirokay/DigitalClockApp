@@ -1,6 +1,8 @@
-
 # DigitalClockApp
 A SwiftUI-based iOS application that serves as a digital clock, displaying the current time in hours, minutes, and seconds. The clock updates every second, breaking down time into individual, bold digits for a visually striking display.
+
+## Screen Recording
+https://github.com/user-attachments/assets/008c6d6f-167a-418c-ba43-e540ae82586b
 
 ## Features
 - **Real-Time Clock**: Displays the current time in hours, minutes, and seconds, updating every second.
